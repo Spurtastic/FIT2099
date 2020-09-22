@@ -1,0 +1,3 @@
+[submodule "JavaBasics"]
+	path = JavaBasics
+	url = https://github.com/Spurtastic/JavaBasics.git
